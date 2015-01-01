@@ -14,25 +14,25 @@ The keyword trigger *flux* will bring up the list of available workflow options.
 
 The darkroom color effect makes your screen a crazy red with white and gray everything else. Try it out to experience it for yourself by selecting "Activate F.lux darkroom".
 
-![Screenshot: Activate darkroom](https://raw.github.com/rdempsey/alfred-flux/master/screenshots/flux-activate-darkroom.jpg "Activate darkroom")
+![Screenshot: Activate darkroom](https://raw.githubusercontent.com/rdempsey/alfred-flux/master/screenshots/flux-activate-darkroom.jpg "Activate darkroom")
 
 ### Activate Movie Mode
 
 Movie mode disables F.lux for 2.5 hours. Do this by selecting "Activate F.lux movie mode".
 
-![Screenshot: Activate movie mode](https://raw.github.com/rdempsey/alfred-flux/master/screenshots/flux-activate-movie-mode.jpg "Activate movie mode")
+![Screenshot: Activate movie mode](https://raw.githubusercontent.com/rdempsey/alfred-flux/master/screenshots/flux-activate-movie-mode.jpg "Activate movie mode")
 
 ### Disable F.lux For One Hour
 
 You can disable F.lux for one hour by selecting "Disable F.lux for one hour".
 
-![Screenshot: Disable for one hour](https://raw.github.com/rdempsey/alfred-flux/master/screenshots/flux-disable-one-hour.jpg "Disable F.lux for one hour")
+![Screenshot: Disable for one hour](https://raw.githubusercontent.com/rdempsey/alfred-flux/master/screenshots/flux-disable-one-hour.jpg "Disable F.lux for one hour")
 
 ### Disable F.lux Until Sunrise
 
 Quickly disable F.lux until sunrise by selecting "Disable F.lux until sunrise".
 
-![Screenshot: Disable until sunrise](https://raw.github.com/rdempsey/alfred-flux/master/screenshots/flux-disable-to-sunrise.jpg "Disable F.lux until sunrise")
+![Screenshot: Disable until sunrise](https://raw.githubusercontent.com/rdempsey/alfred-flux/master/screenshots/flux-disable-to-sunrise.jpg "Disable F.lux until sunrise")
 
 
 #### Why Do I Want This?
@@ -55,7 +55,7 @@ Visit the repository for the full source code at https://github.com/rdempsey/alf
 
 Because F.lux runs as a process, in order to use this workflow, you’ll need to allow Alfred to "control your computer" by going to: System Preferences -> Security & Privacy -> Accessibility, and selecting Alfred 2.
 
-![Screenshot: System preferences update](https://raw.github.com/rdempsey/alfred-flux/master/screenshots/system-prefs-security.jpg "Update system preferences")
+![Screenshot: System preferences update](https://raw.githubusercontent.com/rdempsey/alfred-flux/master/screenshots/system-prefs-security.jpg "Update system preferences")
 
 #### Release Notes
 

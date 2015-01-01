@@ -2,7 +2,7 @@
 
 An [Alfred](http://www.alfredapp.com/ "Alfred App") workflow for controlling aspects of [F.lux](https://justgetflux.com/ "F.lux")
 
-![Screenshot: Alfred Flux Workflow](https://raw.github.com/rdempsey/alfred-flux/master/screenshots/workflow.jpg"Alfred Flux Workflow")
+![Screenshot: Alfred Flux Workflow](https://raw.githubusercontent.com/rdempsey/alfred-flux/master/screenshots/workflow.jpg "Alfred Flux Workflow")
 
 ## Activating Color Effects and Disabling Flux
 
